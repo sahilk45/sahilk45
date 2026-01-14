@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **MERN , Next.js**
+- 💬 Ask me about **MERN , Next.js, Deep Learning**
 
-- 📫 How to reach me **suhagg72@gmail.com**
+- 📫 How to reach me **sahilkumarb527@gmail.com**
 
 - ⚡ Fun fact **I am analytical**
 
