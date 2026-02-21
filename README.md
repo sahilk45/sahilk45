@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm SAHIL KUMAR</h1>
 <h3 align="center">A passionate full stack developer and a proficient problem-solver</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
