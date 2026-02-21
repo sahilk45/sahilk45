@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **MERN , Next.js, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, MERN**
 
 - 📫 How to reach me **sahilkumarb527@gmail.com**
 
